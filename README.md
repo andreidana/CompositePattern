@@ -22,8 +22,8 @@ code, because it avoids having to write tag-and-case-statement-style functions o
 
 **Related Patterns**
 
-- Chain of Responsibility
-- Decorator
-- Flyweight
-- Iterator
-- Visitor
+- [Chain of Responsibility](https://github.com/andreidana/ChainOfResponsibilityPattern)
+- [Decorator](https://github.com/andreidana/DecoratorPattern)
+- [Flyweight](https://github.com/andreidana/FlyweightExample)
+- [Iterator](https://github.com/andreidana/IteratorPattern)
+- [Visitor](https://github.com/andreidana/VisitorPattern)
